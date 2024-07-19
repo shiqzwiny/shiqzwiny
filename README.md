@@ -1,16 +1,18 @@
-## Hi there 👋
+## Cyber Queen in Training 👑
 
-<!--
-**shiqzwiny/shiqzwiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**
+I'm a digital detective on a mission to crack codes and save the internet. Currently hacking my way through the cyber world. 💻
 
-Here are some ideas to get you started:
+**Vibes:**
+* Coffee fueled
+* Meme lord
+* Always learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+* Hacking (obviously)
+* Problem-solving
+* Caffeine consumption
+
+
+**Disclaimer:** I'm still figuring this whole adulting thing out. 
+

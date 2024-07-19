@@ -1,7 +1,7 @@
 ## Cyber Queen in Training 👑
 
 **About me:**
-I'm a digital detective on a mission to crack codes and save the internet. Currently hacking my way through the cyber world. 💻
+I'm a digital detective on a mission to crack codes and save the internet. Currently hacking my way through the cyber world Learning and building in Python, Linux, and network security.. 💻
 
 **Vibes:**
 * Coffee fueled

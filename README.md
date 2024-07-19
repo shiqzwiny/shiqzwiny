@@ -1,3 +1,5 @@
+<div align="center">
+ 
 ## Cyber Queen in Training 👑
 
 
@@ -7,6 +9,7 @@ I'm a digital detective on a mission to crack codes and save the internet. Curre
 
 ----
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
 
 **Vibes:**
 * Coffee fueled
@@ -21,12 +24,18 @@ I'm a digital detective on a mission to crack codes and save the internet. Curre
 * `Python`: My go-to scripting language for automation, data analysis, and security tools. 🐍
 * `Networking`: Understanding the digital highways is crucial. `Routing, switching, and firewalls` are my jam. 🌐
 
+<div>
+ 
 ## 🌐 Web Browsers [🔝](#menu)
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 
+</div>
+
+<div>
+
  ## 🔒 Security Platforms [🔝](#menu)
  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/> <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
- 
+ </div>
  
 
 
